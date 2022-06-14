@@ -1,2 +1,2 @@
 # Data-Science
-[Python][Pandas][Bokeh][Matplotlib] Some smaller data science projects
+Some smaller data science projects. Using mostly pandas with bokeh and matplotlib.
