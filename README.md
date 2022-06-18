@@ -1,5 +1,7 @@
 # Data-Science
-Some smaller data science projects. Using mostly pandas, numpy with bokeh, matplotlib, plot.ly and seaborn.
+Data science projects. Using mostly pandas, numpy with bokeh, matplotlib, plot.ly and seaborn.
+Exploring capabilities of visualisation libraries with pandas dataframe.
+Data from csv kaggle and yahoo finance.
 
 ![png](https://github.com/rafaski1/Data-Science/blob/main/dallas.PNG?raw=true)
 ![png](https://github.com/rafaski1/Data-Science/blob/main/salary.PNG?raw=true)
