@@ -45,4 +45,3 @@ Exploring some functionalities of seaborn library with matplotlib.
 Checking basic funtionality of plotting with plot.ly library.
 
 ![png](https://github.com/rafaski1/Data-Science/blob/main/plotly.PNG?raw=true)
-![png](https://github.com/rafaski1/Data-Science/blob/main/plotly2.PNG?raw=true)
