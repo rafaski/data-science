@@ -31,6 +31,11 @@ Data will have to be cleaned and changed into numeric values to be visualised.
 
 ![png](https://github.com/rafaski1/Data-Science/blob/main/wiki_foundation.PNG?raw=true)
 
+### European Football Regression ###
+Making a model using linear regression to predict players overall rating based on available data metrics.
+Imported data is a subset of the Kaggle dataset European Soccer Database 
+(25k+ matches, players & teams attributes total).
+
 ### seaborn ###
 Exploring some functionalities of seaborn library with matplotlib.
 
