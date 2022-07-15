@@ -36,6 +36,9 @@ Making a model using linear regression to predict players overall rating based o
 Imported data is a subset of the Kaggle dataset European Soccer Database 
 (25k+ matches, players & teams attributes total).
 
+### Dataset Interpolation Impact ###
+Comparing correlation coeff for dataset interpolation.
+
 ### seaborn ###
 Exploring some functionalities of seaborn library with matplotlib.
 
