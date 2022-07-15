@@ -37,7 +37,7 @@ Exploring some functionalities of seaborn library with matplotlib.
 ![png](https://github.com/rafaski1/Data-Science/blob/main/seaborn.PNG?raw=true)
 
 ### plotly ###
-Checking basic funtionality of plotting with plot.py library.
+Checking basic funtionality of plotting with plot.ly library.
 
 ![png](https://github.com/rafaski1/Data-Science/blob/main/plotly.PNG?raw=true)
 ![png](https://github.com/rafaski1/Data-Science/blob/main/plotly2.PNG?raw=true)
