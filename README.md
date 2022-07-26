@@ -1,4 +1,4 @@
-# Data-Science
+## Data-Science
 Data science projects. Using mostly pandas, numpy with bokeh, matplotlib, plot.ly and seaborn.
 Exploring capabilities of visualisation libraries with pandas dataframe.
 Data from csv kaggle and yahoo finance.
